@@ -1,9 +1,9 @@
 <?php
 
-namespace Ssmulders\HashedPassport\Tests;
+namespace Cirelramos\HashedPassport\Tests;
 
 use Illuminate\Support\Facades\DB;
-use Ssmulders\HashedPassport\Traits\HashesIds;
+use Cirelramos\HashedPassport\Traits\HashesIds;
 
 class HashingTest extends TestCase
 {

@@ -1,13 +1,13 @@
 <?php
 
-namespace Ssmulders\HashedPassport\Traits;
+namespace Cirelramos\HashedPassport\Traits;
 
 use Vinkla\Hashids\Facades\Hashids;
 
 /**
  * Trait HashesIds
  *
- * @package Ssmulders\HashedPassport
+ * @package Cirelramos\HashedPassport
  *
  * Uses the configured salt to hash and unhash the Passport Client's ID
  */

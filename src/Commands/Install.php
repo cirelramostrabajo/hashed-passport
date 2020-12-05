@@ -1,10 +1,10 @@
 <?php
 
-namespace Ssmulders\HashedPassport\Commands;
+namespace Cirelramos\HashedPassport\Commands;
 
 use Illuminate\Console\Command;
-use Ssmulders\HashedPassport\HashedPassport;
-use Ssmulders\HashedPassport\Traits\HandlesEncryptedSecrets;
+use Cirelramos\HashedPassport\HashedPassport;
+use Cirelramos\HashedPassport\Traits\HandlesEncryptedSecrets;
 
 class Install extends Command
 {

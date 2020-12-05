@@ -1,9 +1,9 @@
 <?php
 
-namespace Ssmulders\HashedPassport\Middleware;
+namespace Cirelramos\HashedPassport\Middleware;
 
 use Closure;
-use Ssmulders\HashedPassport\Traits\HashesIds;
+use Cirelramos\HashedPassport\Traits\HashesIds;
 
 class DecodeHashedClientIdOnRequest
 {

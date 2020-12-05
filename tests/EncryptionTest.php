@@ -1,11 +1,11 @@
 <?php
 
-namespace Ssmulders\HashedPassport\Tests;
+namespace Cirelramos\HashedPassport\Tests;
 
 use Illuminate\Foundation\Testing\DatabaseTransactions;
 use Illuminate\Support\Facades\DB;
-use Ssmulders\HashedPassport\HashedPassport;
-use Ssmulders\HashedPassport\Traits\HandlesEncryptedSecrets;
+use Cirelramos\HashedPassport\HashedPassport;
+use Cirelramos\HashedPassport\Traits\HandlesEncryptedSecrets;
 
 class EncryptionTest extends TestCase
 {

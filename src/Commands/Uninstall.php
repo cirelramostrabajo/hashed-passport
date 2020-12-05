@@ -1,10 +1,10 @@
 <?php
 
-namespace Ssmulders\HashedPassport\Commands;
+namespace Cirelramos\HashedPassport\Commands;
 
 use Illuminate\Console\Command;
-use Ssmulders\HashedPassport\HashedPassport;
-use Ssmulders\HashedPassport\Traits\HandlesEncryptedSecrets;
+use Cirelramos\HashedPassport\HashedPassport;
+use Cirelramos\HashedPassport\Traits\HandlesEncryptedSecrets;
 
 class Uninstall extends Command
 {
@@ -47,7 +47,7 @@ class Uninstall extends Command
         $this->info('Hashed-passport removal completed.');
         $this->info('');
         $this->info('You can now safely run:');
-        $this->info('composer remove ssmulders/hashed-passport');
+        $this->info('composer remove cirelramos/hashed-passport');
         $this->info('');
         $this->info('');
     }

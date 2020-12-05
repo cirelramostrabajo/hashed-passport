@@ -1,6 +1,6 @@
 <?php
 
-namespace Ssmulders\HashedPassport\Traits;
+namespace Cirelramos\HashedPassport\Traits;
 
 use Illuminate\Contracts\Encryption\DecryptException;
 use Illuminate\Support\Collection;
@@ -9,7 +9,7 @@ use Laravel\Passport\Client;
 /**
  * Trait EncryptsSecrets
  *
- * @package Ssmulders\HashedPassport
+ * @package Cirelramos\HashedPassport
  *
  * For easy encrypting / decrypting of the oAuth client secrets.
  */
