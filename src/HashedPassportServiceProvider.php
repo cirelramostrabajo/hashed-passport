@@ -1,14 +1,14 @@
 <?php
 
-namespace Cirelramos\HashedPassport;
+namespace Cirelramostrabajo\HashedPassport;
 
 use Illuminate\Routing\Router;
 use Illuminate\Support\ServiceProvider;
 use Laravel\Passport\Client;
 use Laravel\Passport\Passport;
-use Cirelramos\HashedPassport\Commands\Install;
-use Cirelramos\HashedPassport\Commands\Uninstall;
-use Cirelramos\HashedPassport\Observers\ClientObserver;
+use Cirelramostrabajo\HashedPassport\Commands\Install;
+use Cirelramostrabajo\HashedPassport\Commands\Uninstall;
+use Cirelramostrabajo\HashedPassport\Observers\ClientObserver;
 
 class HashedPassportServiceProvider extends ServiceProvider
 {

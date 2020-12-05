@@ -1,13 +1,13 @@
 <?php
 
-namespace Cirelramos\HashedPassport\Traits;
+namespace Cirelramostrabajo\HashedPassport\Traits;
 
 use Vinkla\Hashids\Facades\Hashids;
 
 /**
  * Trait HashesIds
  *
- * @package Cirelramos\HashedPassport
+ * @package Cirelramostrabajo\HashedPassport
  *
  * Uses the configured salt to hash and unhash the Passport Client's ID
  */

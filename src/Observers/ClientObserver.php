@@ -1,10 +1,10 @@
 <?php
 
-namespace Cirelramos\HashedPassport\Observers;
+namespace Cirelramostrabajo\HashedPassport\Observers;
 
 use Laravel\Passport\Client;
-use Cirelramos\HashedPassport\HashedPassport;
-use Cirelramos\HashedPassport\Traits\HashesIds;
+use Cirelramostrabajo\HashedPassport\HashedPassport;
+use Cirelramostrabajo\HashedPassport\Traits\HashesIds;
 
 class ClientObserver
 {

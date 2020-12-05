@@ -1,12 +1,12 @@
 <?php
 
-namespace Cirelramos\HashedPassport\Tests;
+namespace Cirelramostrabajo\HashedPassport\Tests;
 
 use Illuminate\Encryption\Encrypter;
 use Illuminate\Support\Str;
 use Laravel\Passport\Passport;
 use Laravel\Passport\PassportServiceProvider;
-use Cirelramos\HashedPassport\HashedPassportServiceProvider;
+use Cirelramostrabajo\HashedPassport\HashedPassportServiceProvider;
 use Vinkla\Hashids\HashidsServiceProvider;
 
 abstract class TestCase extends \Orchestra\Testbench\TestCase

@@ -1,6 +1,6 @@
 <?php
 
-namespace Cirelramos\HashedPassport;
+namespace Cirelramostrabajo\HashedPassport;
 
 class HashedPassport
 {
