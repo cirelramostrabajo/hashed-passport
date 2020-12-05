@@ -9,12 +9,16 @@
     },
     "authors": [
         {
-            "name": "Stan Smulders",
-            "email": "stansmulders@gmail.com"
+            "name": "Cirel Ramos",
+            "email": "cirelramostrabajo@gmail.com"
+        },
+        {
+            "name": "Cirel Ramos",
+            "email": "cirelramostrabajo@gmail.com"
         }
     ],
     "require": {
-        "laravel/passport": ">=7.0 <9.4",
+        "laravel/passport": "^9.4",
         "vinkla/hashids": ">=5.0 <8.0",
         "doctrine/dbal": "^2.6"
     },
