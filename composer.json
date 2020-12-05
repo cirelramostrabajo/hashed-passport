@@ -18,7 +18,7 @@
         }
     ],
     "require": {
-								"laravel/framework": "^7.*"
+								"laravel/framework": ">=6.*",
         "laravel/passport": "^9.4",
         "vinkla/hashids": ">=5.0 <8.0",
         "doctrine/dbal": "^2.6"
