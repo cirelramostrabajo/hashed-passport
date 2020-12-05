@@ -19,7 +19,7 @@
     ],
     "require": {
         "laravel/passport": "^9.4",
-        "vinkla/hashids": "^8.1",
+        "vinkla/hashids": ">=5.*",
         "doctrine/dbal": "^2.10"
     },
     "require-dev": {
