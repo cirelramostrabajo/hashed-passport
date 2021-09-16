@@ -19,7 +19,7 @@
     ],
     "require": {
       "laravel/passport": "^9.4|^10.1",
-      "cirelramostrabajo/hashids": "^9.2",
+      "cirelramostrabajo/hashids": "dev-master",
       "doctrine/dbal": "^2.10"
     },
     "require-dev": {
