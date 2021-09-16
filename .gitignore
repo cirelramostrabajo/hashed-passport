@@ -2,3 +2,4 @@
 /vendor
 Session.vim
 .undodir/
+/.idea/
