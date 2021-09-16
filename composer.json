@@ -18,9 +18,9 @@
         }
     ],
     "require": {
-      "laravel/passport": "^9.4|^10.1",
-      "cirelramostrabajo/hashids": "dev-master",
-      "doctrine/dbal": "^2.10"
+        "laravel/passport": "^9.4|^10.1",
+	      "vinkla/hashids": "^8.1|^9.1",
+        "doctrine/dbal": "^2.10"
     },
     "require-dev": {
         "mockery/mockery": ">=1.3",
